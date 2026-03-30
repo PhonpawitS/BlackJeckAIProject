@@ -70,7 +70,7 @@ BJextension/
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/<your-username>/BJPROJECT.git
+git clone https://github.com/PhonpawitS/BlackJeckAIProject.git
 cd BJPROJECT
 ```
 
